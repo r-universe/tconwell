@@ -1,0 +1,22 @@
+[
+  {
+    "package": "bsTools",
+    "oncran": true
+  },
+  {
+    "package": "html5",
+    "oncran": true
+  },
+  {
+    "package": "pgTools",
+    "oncran": true
+  },
+  {
+    "package": "toolbox",
+    "oncran": true
+  },
+  {
+    "package": "webdeveloper",
+    "oncran": true
+  }
+]

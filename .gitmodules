@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bsTools"]
+	path = bsTools
+	url = https://github.com/tconwell/bstools
+	shallow = true
+	registered = true
+[submodule "html5"]
+	path = html5
+	url = https://github.com/tconwell/html5
+	shallow = true
+	registered = true
+[submodule "pgTools"]
+	path = pgTools
+	url = https://github.com/tconwell/pgtools
+	shallow = true
+	registered = true
+[submodule "toolbox"]
+	path = toolbox
+	url = https://github.com/tconwell/toolbox
+	shallow = true
+	registered = true
+[submodule "webdeveloper"]
+	path = webdeveloper
+	url = https://github.com/tconwell/webdeveloper
+	shallow = true
+	registered = true
