@@ -8,6 +8,11 @@
 	url = https://github.com/tconwell/bstools
 	shallow = true
 	registered = true
+[submodule "dbWebForms"]
+	path = dbWebForms
+	url = https://github.com/cran/dbWebForms
+	shallow = true
+	registered = true
 [submodule "html5"]
 	path = html5
 	url = https://github.com/tconwell/html5
@@ -16,6 +21,11 @@
 [submodule "pgTools"]
 	path = pgTools
 	url = https://github.com/tconwell/pgtools
+	shallow = true
+	registered = true
+[submodule "textTools"]
+	path = textTools
+	url = https://github.com/cran/textTools
 	shallow = true
 	registered = true
 [submodule "toolbox"]
