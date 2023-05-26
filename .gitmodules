@@ -23,6 +23,11 @@
 	url = https://github.com/tconwell/pgtools
 	shallow = true
 	registered = true
+[submodule "sqlHelpers"]
+	path = sqlHelpers
+	url = https://github.com/cran/sqlHelpers
+	shallow = true
+	registered = true
 [submodule "textTools"]
 	path = textTools
 	url = https://github.com/cran/textTools
